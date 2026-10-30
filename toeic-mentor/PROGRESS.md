@@ -26,3 +26,6 @@
 - **Giới hạn đang theo dõi:** chưa có phiếu điểm Listening/Reading tách riêng từ bài thi thật —
   lộ trình tuần 1-6 đang giả định Nghe/Đọc lệch không nhiều. Nếu có phiếu điểm, báo lại để điều
   chỉnh trọng số.
+- **Nguồn mới (2026-10-30):** đã nạp danh sách từ đồng nghĩa người học cung cấp vào
+  `decks/synonyms-backlog.md` (~206 nhóm, chia theo chủ đề tuần). Chưa dạy bài nào từ nguồn này —
+  `synonyms.md` chỉ bắt đầu tuần 3-4 theo gate box 3 (từ gốc đã lên box 3 trở lên).

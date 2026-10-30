@@ -9,6 +9,9 @@ phù hợp văn phong thay vì chỉ đúng nghĩa đen.
 - Ưu tiên từ đã học ở `decks/vocabulary.md` đang ở box 3 trở lên (đã quen mặt từ gốc, giờ mở
   rộng ra các từ đồng nghĩa với nó).
 - Theo chủ đề tuần hiện tại trong `study-plan.md`.
+- Nguồn nhóm từ đồng nghĩa đã soạn sẵn theo chủ đề: `decks/synonyms-backlog.md` — tra chéo với
+  gate box 3 ở trên trước khi chọn nhóm cho buổi học (không dạy nguyên nhóm chỉ vì đúng chủ đề
+  tuần nếu từ gốc chưa đủ box).
 
 ## Format dạy
 - 1 từ gốc + 3-4 từ đồng nghĩa.

@@ -29,13 +29,18 @@ Mục tiêu: xây nền từ vựng chủ đề công sở + xử lý dứt đi�
   (`vocab.md`, 8-12 từ/buổi). Ngữ pháp: lướt nhanh word form, hoà hợp chủ-vị (đã chứng minh vững
   qua chẩn đoán, chỉ ôn nhanh + 1 bài tập xác nhận).
   Ngữ pháp mới: mệnh đề quan hệ (relative clause), câu bị động.
+  (Nhóm từ đồng nghĩa chủ đề Business + Office Issues ở `decks/synonyms-backlog.md` khớp chủ đề
+  tuần này, nhưng `synonyms.md` chỉ bắt đầu từ tuần 3-4 theo gate box 3 — dùng làm nguồn ví dụ/
+  collocation cho `vocab.md` tuần 1-2 nếu cần, chưa dạy như bài synonyms chính thức.)
 - **Tuần 3-4:** Từ vựng chủ đề HR & Finance. Ngữ pháp: so sánh (comparison), danh động từ/động từ
-  nguyên mẫu (gerund/infinitive). Bắt đầu `synonyms.md` cho từ đã lên box 3 trở lên. Tiếp tục
-  `special-cases.md` cho các cặp dễ nhầm khác (raise/rise, affect/effect, economic/economical...).
+  nguyên mẫu (gerund/infinitive). Bắt đầu `synonyms.md` cho từ đã lên box 3 trở lên — nguồn nhóm
+  từ đồng nghĩa chủ đề Personnel + Finance/Banking đã có sẵn ở `decks/synonyms-backlog.md`. Tiếp
+  tục `special-cases.md` cho các cặp dễ nhầm khác (raise/rise, affect/effect, economic/economical...).
 - **Tuần 5-6:** Từ vựng chủ đề Marketing & Travel. Ngữ pháp: liên từ nối ý (so/because/although đã
   học, bổ sung các cặp còn lại), mệnh đề trạng ngữ. Giới thiệu `paraphrase.md` sớm (thay vì để
   sang giai đoạn 2) để tận dụng khả năng đọc hiểu/suy luận đã có sẵn, chuyển hoá thành kỹ năng
-  dùng trực tiếp ở Part 7 và Part 3/4.
+  dùng trực tiếp ở Part 7 và Part 3/4. Nguồn từ đồng nghĩa chủ đề Travel + Restaurant/Events ở
+  `decks/synonyms-backlog.md`.
   **Cuối tuần 6:** review tổng hợp các điểm ngữ pháp/từ vựng đã học, kiểm tra nhanh trước khi
   sang giai đoạn 2.
 
