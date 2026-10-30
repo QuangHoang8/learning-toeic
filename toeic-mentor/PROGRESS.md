@@ -5,12 +5,14 @@
 - **Điểm ước tính hiện tại:** chưa đo — chờ mock test đầu tiên (~2026-11-11). Mọi điểm ước tính
   trong tương lai đều là ước lượng không chính thức, không phải điểm TOEIC thật.
 - **Ngày học gần nhất:** 2026-10-30 (ôn 14 thẻ due, tất cả lên box 2 + học mới mệnh đề quan hệ
-  who/whom/whose/which)
-- **Thẻ due:** 4 thẻ due 2026-10-31 (vocabulary: compensate; grammar: despite vs although,
-  because of vs because, relative clause who/whom/whose/which — mới học, box 1). Thêm 14 thẻ due
-  2026-11-01 (vocabulary: tentatively, provisionally, reimburse, confidential, collaborate,
-  collaborative, agenda, concise, emphasize, postpone, negotiate, anticipate, verify; grammar:
-  during vs while). Sau khi ôn, cập nhật lại ngày due mới cho từng thẻ trong `decks/`.
+  who/whom/whose/which; sau đó cùng ngày, học viên tự mang 1 câu Part 6 thật để thử sức — xem
+  điểm yếu mới bên dưới)
+- **Thẻ due:** 6 thẻ due 2026-10-31 (vocabulary: compensate, facilitate the transition;
+  grammar: despite vs although, because of vs because, relative clause who/whom/whose/which,
+  participle làm hậu bổ ngữ danh từ — 2 thẻ mới box 1). Thêm 14 thẻ due 2026-11-01 (vocabulary:
+  tentatively, provisionally, reimburse, confidential, collaborate, collaborative, agenda,
+  concise, emphasize, postpone, negotiate, anticipate, verify; grammar: during vs while). Sau
+  khi ôn, cập nhật lại ngày due mới cho từng thẻ trong `decks/`.
 - **Lịch mock test kế tiếp:** dự kiến cuối tuần 2, ~2026-11-11 (xem `study-plan.md`)
 - **Điểm yếu đã phát hiện:** reimburse vs compensate — chọn đúng từ "reimburse" ở buổi 2026-10-30
   (hết sai từ, cải thiện so với 2 lần sai trước) nhưng giải thích nghĩa "compensate" vẫn sai
@@ -22,7 +24,12 @@
   "in") và cấu trúc câu "anticipate + noun phrase / that-clause" — lỗi nhẹ, mới phát hiện
   2026-10-30, theo dõi thêm; sắc thái từ đồng nghĩa (tentatively/provisionally) và liên từ vs
   giới từ (despite/although, because/because of, during/while) — đã học ổn định qua 2 buổi, tiếp
-  tục ôn theo chu kỳ Leitner bình thường. Chi tiết: `study-plan.md`.
+  tục ôn theo chu kỳ Leitner bình thường. **Mới phát hiện 2026-10-30 (ngoài bài chẩn đoán gốc,
+  học viên tự mang câu Part 6 thật):** sentence insertion (chọn câu điền vào đoạn văn, câu 131 —
+  bài chẩn đoán gốc không có dạng này nên chưa phát hiện ra) và participle làm hậu bổ ngữ danh
+  từ (V-ing/V-ed, câu 134 — nối tiếp tự nhiên của relative clause vừa học) — đã thêm thẻ ôn tập
+  + điều chỉnh lộ trình để luyện sớm từ tuần 2, xem `study-plan.md` mục "Cập nhật phát hiện mới".
+  Chi tiết đầy đủ Part 6: `knowledge-base/part6-text-completion.md`.
 - **Giới hạn đang theo dõi:** chưa có phiếu điểm Listening/Reading tách riêng từ bài thi thật —
   lộ trình tuần 1-6 đang giả định Nghe/Đọc lệch không nhiều. Nếu có phiếu điểm, báo lại để điều
   chỉnh trọng số.

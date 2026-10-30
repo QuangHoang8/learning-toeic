@@ -20,6 +20,35 @@ Baseline: 550 (điểm TOEIC thật, chưa rõ ngày thi). Mục tiêu: 800+. Nh
   thật cho thấy Listening thấp hơn Reading rõ rệt, chuyển trọng tâm tuần 1-6 sang nhận diện bẫy
   nghe (qua transcript) nhiều hơn và giảm bớt thời lượng ngữ pháp nền tảng.**
 
+## Cập nhật phát hiện mới (2026-10-30 — ngoài bài chẩn đoán gốc)
+
+Học viên tự mang 1 câu Part 6 thật (đoạn thư từ chức, câu 131-134) để thử sức, kết quả 1/4
+đúng (chỉ đúng câu 133 "during", nhờ vừa học during/while). Phát hiện 2 lỗ hổng mà bài chẩn
+đoán 24 câu ban đầu KHÔNG đo được:
+
+- **Sentence insertion (câu 131 — chọn câu hoàn chỉnh để điền vào đoạn văn):** dạng CHỈ xuất
+  hiện ở Part 6, không có ở Part 5, nên 24 câu chẩn đoán gốc (toàn Part 5-style + đọc hiểu đoạn
+  ngắn) không hề kiểm tra kỹ năng này. Đây là lỗ hổng của chính bài test đầu vào, không phải
+  dấu hiệu yếu toàn diện — nhưng cần xử lý vì không có nền tảng nào để tự suy luận ra, phải dạy
+  chiến thuật riêng (xem `knowledge-base/part6-text-completion.md`).
+- **Participle làm hậu bổ ngữ danh từ (câu 134 — "support provided to me"):** dạng rút gọn bị
+  động của mệnh đề quan hệ, nối tiếp tự nhiên sau bài relative clause (who/whom/whose/which)
+  học cùng ngày 2026-10-30, nhưng chưa được dạy explicit.
+- Câu 132 (vocab-in-context/collocation theo đoạn dài hơn Part 5) chỉ là biến thể khó hơn của
+  kỹ năng từ vựng đã học, không phải lỗ hổng mới — không cần xử lý riêng.
+
+**Điều chỉnh lộ trình:**
+1. **Tuần 2:** dạy ngay "participle làm hậu bổ ngữ danh từ (V-ing vs V-ed)" (đã thêm thẻ vào
+   `decks/grammar.md`, box 1), ngay sau khi ôn xong relative clause — tận dụng liên hệ rút gọn
+   mệnh đề quan hệ.
+2. **Từ tuần 2 đến hết tuần 6 (giai đoạn 1):** chèn 1 bài mini-Part-6 ngắn (1 đoạn 4 câu, tự
+   soạn) mỗi 1-2 buổi, tách riêng để luyện phản xạ "sentence insertion" sớm — không chờ đến
+   tuần 7-9. Đây là luyện phản xạ nhẹ, KHÔNG thay thế việc học sâu chiến thuật Part 6 đầy đủ ở
+   giai đoạn 2.
+3. **Tuần 7-9 (Part 6 chính thức, xem bên dưới):** tăng trọng số luyện "sentence insertion" rõ
+   ràng hơn so với 3 dạng câu còn lại của Part 6, vì đây đã được xác nhận là điểm yếu nhất
+   trong 4 dạng câu, không chỉ là "ngữ cảnh đoạn văn" chung chung như ghi chú chẩn đoán ban đầu.
+
 ## Giai đoạn 1 — Nền tảng (Tuần 1-6): từ vựng + ngữ pháp cốt lõi
 
 Mục tiêu: xây nền từ vựng chủ đề công sở + xử lý dứt điểm các lỗi ngữ pháp/từ vựng đã phát hiện.
@@ -49,8 +78,10 @@ Mục tiêu: xây nền từ vựng chủ đề công sở + xử lý dứt đi�
 Mục tiêu: áp dụng nền tảng vào đúng format từng Part, bắt đầu luyện có giới hạn thời gian để bù
 cho việc bài chẩn đoán ban đầu không đo được tốc độ.
 
-- **Tuần 7-9:** Part 5 (ngữ pháp + từ vựng tốc độ cao, mục tiêu <20s/câu), Part 6 (ngữ cảnh đoạn
-  văn, đã có nền tảng paraphrase từ giai đoạn 1).
+- **Tuần 7-9:** Part 5 (ngữ pháp + từ vựng tốc độ cao, mục tiêu <20s/câu), Part 6 (4 dạng câu:
+  ngữ pháp/vocab-in-context/linking words/**sentence insertion** — ưu tiên thời lượng luyện tập
+  cho sentence insertion vì đã xác nhận là điểm yếu nhất từ 2026-10-30, xem phần "Cập nhật phát
+  hiện mới" phía trên; đã có nền tảng paraphrase từ giai đoạn 1 và mini-drill từ tuần 2-6).
 - **Tuần 10-12:** Part 7 single passage (chi tiết, suy luận, paraphrase, NOT/EXCEPT — đẩy nhanh
   lên độ khó cao hơn vì đã thể hiện tốt ở chẩn đoán), bắt đầu giới hạn thời gian theo chuẩn thật
   (~75 giây/câu).

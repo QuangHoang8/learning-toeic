@@ -16,3 +16,4 @@
 | negotiate (v) | đàm phán | The two companies spent weeks trying to negotiate a fair price. | 2 | 2026-11-01 | Bài học 2026-10-29 | #business |
 | anticipate (v) | dự đoán trước, lường trước | Analysts anticipate a sharp increase in fuel prices next quarter. | 2 | 2026-11-01 | Bài học 2026-10-29 | #business #sentence-structure |
 | verify (v) | xác minh, kiểm chứng | Please verify the figures in this report before sending it. | 2 | 2026-11-01 | Bài học 2026-10-29 | #business |
+| facilitate the transition (collocation) | hỗ trợ/tạo điều kiện cho quá trình chuyển giao, bàn giao | I'm happy to help train my replacement to facilitate the transition. | 1 | 2026-10-31 | Part 6 — thư từ chức 2026-10-30 | #part6 #collocation #office |
