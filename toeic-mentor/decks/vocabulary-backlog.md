@@ -10,32 +10,15 @@ Reading thường gặp theo chủ đề"), bỏ các từ dưới trình độ 
 
 ## Reading — Part 5
 
-| Từ | Loại từ | Nghĩa | Chủ đề |
-|---|---|---|---|
-| negligence | n | sự lơ là, bất cẩn (dẫn đến hậu quả) | general business |
-| tendency | n | xu hướng | general business |
-| preference | n | sự ưu tiên, sở thích | general business |
-| interruption | n | sự gián đoạn | general business |
-| distribution | n | sự phân phối | general business |
-| assume | v | cho rằng, mặc định là đúng | general business |
-| vague | adj | mơ hồ, không rõ ràng | general business |
-| apparent | adj | rõ ràng, có thể thấy rõ | general business |
-| extensive | adj | rộng rãi, sâu rộng (phạm vi lớn) | general business |
-| groundbreaking | adj | mang tính đột phá, tiên phong | general business |
-| superior | adj | vượt trội, cao cấp hơn (so sánh) | general business |
-| cautious | adj | thận trọng | general business |
+Đã dùng đợt 2026-11-03: negligence, tendency, preference, interruption, distribution, assume,
+vague, apparent, extensive, cautious (xem `decks/vocabulary.md`).
+Đã dùng đợt 2026-11-04: groundbreaking, superior (xem `decks/vocabulary.md`) — hết nhóm Reading
+Part 5.
 
 ## Reading — Part 6
 
-| Từ | Loại từ | Nghĩa | Chủ đề |
-|---|---|---|---|
-| commence | v | bắt đầu (trang trọng, ~begin) | general business |
-| deduct | v | khấu trừ | finance |
-| comprehensive | adj | toàn diện | general business |
-| compulsory | adj | bắt buộc | general business |
-| economical | adj | tiết kiệm, có lợi về chi phí — **dễ nhầm với "economic"** (xem `special-cases.md`) | finance |
-| consequence | n | hậu quả | general business |
-| commission | n | tiền hoa hồng | finance |
+Đã dùng đợt 2026-11-05: commence, deduct, comprehensive, compulsory, economical, consequence,
+commission (xem `decks/vocabulary.md`) — hết nhóm Reading Part 6.
 
 ## Reading — Part 7
 
