@@ -4,14 +4,16 @@
 - **Điểm baseline:** 550 (TOEIC thật, ngày thi chưa rõ)
 - **Điểm ước tính hiện tại:** chưa đo — chờ mock test đầu tiên (~2026-11-11). Mọi điểm ước tính
   trong tương lai đều là ước lượng không chính thức, không phải điểm TOEIC thật.
-- **Ngày học gần nhất:** 2026-11-07 — ôn 8 thẻ + special-cases 16 mục (~13/16). all+plural đúng 4/4,
+- **Ngày học gần nhất:** 2026-11-09 (xem "Cập nhật" bên dưới). Trước đó 2026-11-07 — ôn 8 thẻ + special-cases 16 mục (~13/16). all+plural đúng 4/4,
   collaborate/superior/confidential/tentatively/provisionally/economical đúng → box 2. Sai: groundbreaking
   (nhầm "superior" lần 2 → box 1), mẫu mới: thiếu mạo từ "the" khi tự viết, chính tả competitive/transition.
+- **Cập nhật 2026-11-09:** ôn 15 thẻ, 13/14 trắc nghiệm đúng. Sai: consequence (thiếu số nhiều → box 1),
+  training (tự viết "a traning" → box 1), "that regarding" (trộn relative clause + participle). Bài special-cases: sửa lỗi 6/6 đúng (nhận diện số nhiều/mạo từ ổn), nhưng khi TỰ VIẾT vẫn lỗi: thiếu "the" (every day of the week), "understand about", "procedure" thiếu số nhiều → điểm yếu số 0 chưa dứt. Mock test dự kiến 11-11.
 - **Thẻ due:**
-  - **2026-11-08:** groundbreaking (box 1 — ưu tiên, ôn riêng tách khỏi superior).
-  - **2026-11-08:** relative clause who/whom/whose/which (box 1 — whose sai lại với antecedent vật "software", 11-07 bài thêm).
-  - **2026-11-09:** set up, participle, training, commence/deduct/comprehensive/compulsory/
-    consequence/commission, sales, collaborative.
+  - **2026-11-10:** consequence (sai lần 3), training, understand, 3 thẻ ngữ pháp mới (the+danh từ xác định, V chia theo chủ ngữ V-ing/ngôi 3, giới từ+V-ing), participate in, defective (box 1).
+  - **2026-11-12:** groundbreaking, capitalize on, relative clause, V+O+to V, participle (tụt box 4 → 2 do speaked, 11-09).
+  - **2026-11-16:** set up, commence/deduct/comprehensive/compulsory/commission, sales (box 3).
+  - **2026-11-23:** collaborative (box 4).
   - **2026-11-10:** all+plural, facilitate the transition, collaborate, superior, confidential,
     tentatively, provisionally, economical (tất cả box 2).
   - **2026-11-13:** during vs while, passive voice (box 3 — đã xác nhận ổn định lần 2), 10 từ
@@ -21,7 +23,14 @@
     compensate, agenda, concise, emphasize, postpone, negotiate, anticipate, verify).
 - **Lịch mock test kế tiếp:** dự kiến cuối tuần 2, ~2026-11-11 (xem `study-plan.md`).
 
+## Yêu cầu của học viên (2026-11-09)
+- Bài tập mỗi buổi còn ít → qua 1 ngày là quên. Từ nay mỗi buổi giao NHIỀU hơn (mục tiêu ≥30 mục/buổi,
+  ưu tiên dạng SẢN SINH: tự viết, sửa lỗi, điền từ không gợi ý), có vòng ôn lại cuối buổi và bài thêm
+  trong ngày khi học viên muốn.
+
 ## Điểm yếu đang theo dõi (ưu tiên cao → thấp)
+
+00. **2026-11-09 buổi luyện thêm (28 mục): nhận diện ~15/18, sản sinh (tự viết/dịch) chỉ ~2/10 sạch lỗi.** Lỗi lặp: thiếu "the", chính tả (trainning x3, procudures, sumitted), động từ không chia theo chủ ngữ V-ing/ngôi 3, consequence thiếu -s lần 3. Buổi tới: mỗi bài tự viết phải qua checklist 4 bước (danh từ, chính tả, chủ-vị, hoa/chấm) và có vòng viết lại câu sai.
 
 0. **MỚI 2026-11-07 — thiếu mạo từ/số nhiều khi TỰ VIẾT** (to the new system, only the owner,
    competitive products): 3 lỗi cùng buổi. Cần thẻ grammar riêng + bài sản sinh buổi tới.
