@@ -2,26 +2,30 @@
 
 - **Giai đoạn/tuần hiện tại:** Giai đoạn 1 — Nền tảng, Tuần 1/24
 - **Điểm baseline:** 550 (TOEIC thật, ngày thi chưa rõ)
-- **Điểm ước tính hiện tại:** chưa đo — chờ mock test đầu tiên (~2026-11-11). Mọi điểm ước tính
+- **Điểm ước tính hiện tại:** ~650–720 (mock #1, 2026-11-11; ước lượng không chính thức, sai số lớn).
   trong tương lai đều là ước lượng không chính thức, không phải điểm TOEIC thật.
-- **Ngày học gần nhất:** 2026-11-09 (xem "Cập nhật" bên dưới). Trước đó 2026-11-07 — ôn 8 thẻ + special-cases 16 mục (~13/16). all+plural đúng 4/4,
+- **Ngày học gần nhất:** 2026-11-12 (paraphrase Part 3/4 + ôn 10 thẻ, 24/30; xem "Cập nhật 2026-11-12"). Trước đó 2026-11-11 (ôn nhanh 10 mục, 5/10 sạch lỗi; mock test CHƯA làm — dời sang buổi kế). Trước đó 2026-11-10 (31 mục, 19/31 — xem "Cập nhật 2026-11-10"). Trước đó 2026-11-09 (xem "Cập nhật" bên dưới). Trước đó 2026-11-07 — ôn 8 thẻ + special-cases 16 mục (~13/16). all+plural đúng 4/4,
   collaborate/superior/confidential/tentatively/provisionally/economical đúng → box 2. Sai: groundbreaking
   (nhầm "superior" lần 2 → box 1), mẫu mới: thiếu mạo từ "the" khi tự viết, chính tả competitive/transition.
 - **Cập nhật 2026-11-09:** ôn 15 thẻ, 13/14 trắc nghiệm đúng. Sai: consequence (thiếu số nhiều → box 1),
   training (tự viết "a traning" → box 1), "that regarding" (trộn relative clause + participle). Bài special-cases: sửa lỗi 6/6 đúng (nhận diện số nhiều/mạo từ ổn), nhưng khi TỰ VIẾT vẫn lỗi: thiếu "the" (every day of the week), "understand about", "procedure" thiếu số nhiều → điểm yếu số 0 chưa dứt. Mock test dự kiến 11-11.
+- **Cập nhật 2026-11-10 (31 mục special-cases: A 11/14, B 4/6, C 4/5, D 0/6 sạch lỗi):** nhận diện tốt (economic/economical 4/4, all+plural 3/3, collaborate with/on, superior to, tentatively/provisionally) → lên box 3. Sản sinh vẫn yếu: thiếu "The" (6+ chỗ, kể cả "Store replaced"), động từ không chia -s (It help, collaborate, is/are), chính tả (trainning LẦN 4, planed, deparment, confidencial), cấu trúc (Failing the meet, Please noticed, understand about, every staff, than restaurant). facilitate the transition KHÔNG được kiểm tra hôm nay → dời sang 11-11. Thẻ mới: economic vs economical, spelling bundle, fail to V, staff, Please note that, on the weekend/on the counter, so sánh song song.
+- **Cập nhật 2026-11-11:** đúng sạch: facilitate, economical, confidential, understand, chủ-vị, staff, "The training is compulsory". Sai: Please note that (viết notice), thiếu "the" (on the weekend), failed to meeting, so sánh song song (than last year's), Economic→Economics. Thẻ sai về box 1, due 11-12.
+- **Cập nhật 2026-11-11 (bài B, 30 mục): 22/30 sạch lỗi.** Đã vững hơn: fail to V, Please note that, on the weekend, economic/Economics (lên box 2, due 11-13). Còn yếu: "the" trước danh từ xác định, staffs, store open (-s), so sánh song song (than that/colleague's), understading. Đang chờ vòng viết lại 8 câu.
+- **Cập nhật 2026-11-11 (vòng viết lại):** 8/8 đúng. Các thẻ the+danh từ, V chia, staff, so sánh, sở hữu cách, spelling lên box 2 (due 11-13). Ngày mai nên làm mock test + kiểm tra lại các lỗi này ở dạng tự viết MỚI (không phải câu đã thấy).
+- **MOCK #1 (2026-11-11):** 19/22 (86%), Nghe 6/8, Reading 13/14. Điểm ước tính KHÔNG chính thức ~650–720 (mẫu nhỏ, đề dễ hơn thật). Yếu: paraphrase Part 3/4, nghĩa liên từ Part 6. Mock #2 dự kiến ~2026-11-25.
+- **Cập nhật 2026-11-12 (24/30):** sản sinh tốt, ít lỗi the/chia V. Lên box 3 (due 11-19): groundbreaking, capitalize on, relative clause, participle. look up → box 2 (due 11-15). Về/giữ box 1 (due 11-13): advise+O+to V (thiếu to), Please note that (viết notice, lần 3), fog → bad weather (lần 2). Điểm yếu số 1 hiện tại: paraphrase Part 3/4 — đáp án khái quát hoá từ cụ thể, tránh keyword-trap, câu "next" lấy hành động cuối của người được hỏi, đáp án phải có căn cứ trong bài (added-info). Buổi tới: làm thêm 1 bài paraphrase Part 3/4 mới + kiểm tra lại 3 thẻ box 1 ở dạng tự viết MỚI.
+- **Bài thêm 2026-11-12 (9/14):** paraphrase tốt hơn nhưng còn: replace=take the place of (thẻ mới, box 1), Although vs Because (contrast) sai lại → thẻ despite/although tụt box 1 (due 11-13), wear badge thiếu mạo từ/số nhiều. Buổi tới ưu tiên: đọc nghĩa 2 vế trước khi chọn liên từ; câu "next" lấy hành động cuối; gắn nhãn bẫy: added-info = không có trong bài, too-narrow = đúng một phần nhỏ.
 - **Thẻ due:**
-  - **2026-11-10:** consequence (sai lần 3), training, understand, 3 thẻ ngữ pháp mới (the+danh từ xác định, V chia theo chủ ngữ V-ing/ngôi 3, giới từ+V-ing), participate in, defective (box 1).
-  - **2026-11-12:** groundbreaking, capitalize on, relative clause, V+O+to V, participle (tụt box 4 → 2 do speaked, 11-09).
+  - **2026-11-11 (mock test dự kiến — cân nhắc ôn nhanh đầu buổi):** training, confidential, facilitate the transition, economic vs economical (mới), spelling bundle (mới); ngữ pháp: understand, the+danh từ xác định, V chia theo chủ ngữ, fail to V, staff, Please note that, on the weekend/on the counter, so sánh song song.
+  - **2026-11-13:** advise+O+to V, Please note that, heavy fog→bad weather (box 1) + các thẻ box 2/3 đã nêu bên dưới.
+  - **2026-11-13:** consequence, participate in, defective, giới từ+V-ing (box 2); during vs while, passive voice (box 3), 10 từ Office & Business đợt 2026-11-03 (negligence, tendency, preference, interruption, distribution, assume, vague, apparent, extensive, cautious — box 3).
   - **2026-11-16:** set up, commence/deduct/comprehensive/compulsory/commission, sales (box 3).
+  - **2026-11-17:** all+plural, collaborate, superior, tentatively, provisionally, economical (tất cả lên box 3).
   - **2026-11-23:** collaborative (box 4).
-  - **2026-11-10:** all+plural, facilitate the transition, collaborate, superior, confidential,
-    tentatively, provisionally, economical (tất cả box 2).
-  - **2026-11-13:** during vs while, passive voice (box 3 — đã xác nhận ổn định lần 2), 10 từ
-    Office & Business đợt 2026-11-03 (negligence, tendency, preference, interruption, distribution,
-    assume, vague, apparent, extensive, cautious — box 3).
   - **2026-11-20:** despite/although, because/because of (box 4), batch box 4 (reimburse,
     compensate, agenda, concise, emphasize, postpone, negotiate, anticipate, verify).
-- **Lịch mock test kế tiếp:** dự kiến cuối tuần 2, ~2026-11-11 (xem `study-plan.md`).
+- **Lịch mock test kế tiếp:** mock #2 dự kiến ~2026-11-25.
 
 ## Yêu cầu của học viên (2026-11-09)
 - Bài tập mỗi buổi còn ít → qua 1 ngày là quên. Từ nay mỗi buổi giao NHIỀU hơn (mục tiêu ≥30 mục/buổi,
@@ -29,6 +33,8 @@
   trong ngày khi học viên muốn.
 
 ## Điểm yếu đang theo dõi (ưu tiên cao → thấp)
+
+000. **2026-11-10: sản sinh vẫn 0/6 sạch lỗi ở phần tự viết** — cùng 4 họ lỗi: thiếu "The", không chia -s, chính tả (trainning lần 4), cấu trúc cố định (fail to V, understand + O). Cuối buổi 11-10 đã GIAO bài viết lại (A1, A4, A10, D26–D31, mỗi câu 1 mệnh đề, theo checklist 4 bước) — chấm kết quả ở đầu buổi kế tiếp (không lặp lại bài này, chỉ chấm). Ghi chú A2: bỏ chữ "mới" và nên dùng "provides/sets up" (chia -s).
 
 00. **2026-11-09 buổi luyện thêm (28 mục): nhận diện ~15/18, sản sinh (tự viết/dịch) chỉ ~2/10 sạch lỗi.** Lỗi lặp: thiếu "the", chính tả (trainning x3, procudures, sumitted), động từ không chia theo chủ ngữ V-ing/ngôi 3, consequence thiếu -s lần 3. Buổi tới: mỗi bài tự viết phải qua checklist 4 bước (danh từ, chính tả, chủ-vị, hoa/chấm) và có vòng viết lại câu sai.
 
